@@ -1,23 +1,37 @@
+## Olá, seja bem-vindo!
+
+## Sobre mim
+
+- Me chamo Diogo, tenho 21 anos.
+- Atualmente estou cursando Análise e desenvolvimento de sistemas
+- Estou sempre buscando aprimoramento
+
+## Frontend
+![React](https://img.shields.io/badge/React-gray?style=flat-square&logo=react)
+![Next](https://img.shields.io/badge/Next-gray?style=flat-square&logo=next.js)
+![Vite](https://img.shields.io/badge/Vite-gray?style=flat-square&logo=Vite&logoColor=yellow)
+![Typescript](https://img.shields.io/badge/Typescript-gray?style=flat-square&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-gray?style=flat-square&logo=tailwind%20css)
+
+## Sociais
+
+![Linkedin](https://img.shields.io/badge/Linkedin-gray?style=flat-square&logo=linkedin&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdiogo-souza-alves%2F)
+
+##
+
+## Status
+
 <div align="center">
   <a href="https://github.com/cheeviz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cheeviz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheeviz&layout=compact&langs_count=7&theme=dark"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cheeviz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="32.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheeviz&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/68/01/ac/6801acc8eb6694b9c907792472989c79.jpg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:saintdzn1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diogo-souza-alves-77345b220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+##
+
+![](https://github-profile-trophy.vercel.app/?username=cheeviz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## Contribuição
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cheeviz/cheeviz/output/github-contribution-grid-snake-dark.svg">
