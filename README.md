@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-- Me chamo Diogo, **{{idade}} anos**.
+- Me chamo Diogo, **23 anos**.
 - Atualmente estou cursando Análise e desenvolvimento de sistemas
 - Estou sempre buscando aprimoramento
 
