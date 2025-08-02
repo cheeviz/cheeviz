@@ -20,7 +20,7 @@ jobs:
           ANO_NASCIMENTO=2002
           IDADE=$((ANO_ATUAL - ANO_NASCIMENTO))
 
-          sed -i "s/[0-9]\+ anos/${IDADE} anos/g" README.md
+          sed -i "s/{{idade}}/${IDADE}/g" README.md
 
       - name: Commit e push se houve mudanças
         run: |
